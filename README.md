@@ -1,5 +1,5 @@
 ### Welcome to my gitHub 👋
-## I'm a Java developer and a Tutor in the postgraduate course in Java Technology at UTFPR (Universidade Tecnológica Federal do Paraná)
+## I'm a Software Engineer, Fullstack Developer and a Tutor in the postgraduate course in Java Technology at UTFPR (Universidade Tecnológica Federal do Paraná)
 <br/>
 <br/>
 <div align="center">
