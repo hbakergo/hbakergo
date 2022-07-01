@@ -11,4 +11,6 @@
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="hbaker-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="hbaker-Java" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg)">
+  
 </div>
